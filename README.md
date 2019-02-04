@@ -1,4 +1,4 @@
-[Preview Banner]()
+[Preview Banner](https://typhaneybdev.github.io/gsap-animatedbanner/)
 
 ## Followed [Greensock](https://greensock.com/) tutorial to animate a moc sales banner
 
